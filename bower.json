@@ -1,0 +1,22 @@
+{
+  "name": "svg.path.js",
+  "main": "svg.path.js",
+  "version": "0.5.1",
+  "homepage": "https://github.com/dotnetCarpenter/svg.path.js",
+  "authors": [
+    "otm"
+  ],
+  "description": "A path extension for the svg.js library",
+  "keywords": [
+    "svg.js",
+    "path"
+  ],
+  "license": "UNLICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
