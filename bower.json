@@ -1,10 +1,10 @@
 {
   "name": "svg.path.js",
   "main": "svg.path.js",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "homepage": "https://github.com/dotnetCarpenter/svg.path.js",
   "authors": [
-    "otm",
+    "Nils Lagerkvist",
     "dotnetCarpenter <jon.ronnenberg@gmail.com>"
   ],
   "description": "A path extension for the svg.js library",
@@ -12,7 +12,7 @@
     "svg.js",
     "path"
   ],
-  "license": "UNLICENSE",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",

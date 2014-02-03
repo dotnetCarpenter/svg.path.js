@@ -1,5 +1,6 @@
-// svg.path.js 0.4 - Copyright (c) 2013 Nils Lagerkvist - Licensed under the MIT license
-
+/*svg.path.js - v0.5.3 - 2014-02-03
+* https://github.com/dotnetCarpenter/svg.path.js
+* Copyright (c) 2014 Nils Lagerkvist; Licensed under the  MIT license */
 (function() {
 
 	var slice = Function.prototype.call.bind(Array.prototype.slice);
