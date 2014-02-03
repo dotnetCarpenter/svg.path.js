@@ -1,7 +1,7 @@
 {
   "name": "svg.path.js",
   "main": "svg.path.js",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "homepage": "https://github.com/dotnetCarpenter/svg.path.js",
   "authors": [
     "Nils Lagerkvist",
