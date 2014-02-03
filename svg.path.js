@@ -1,4 +1,4 @@
-/*svg.path.js - v0.5.3 - 2014-02-03
+/*svg.path.js - v0.5.4 - 2014-02-03
 * https://github.com/dotnetCarpenter/svg.path.js
 * Copyright (c) 2014 Nils Lagerkvist; Licensed under the  MIT license */
 (function() {
