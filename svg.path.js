@@ -202,18 +202,6 @@
 			this._lastSegment = lastSegment;	
 
 			return this.attr('d', this.attr('d') + str);
-		},
-		line: function(line, options){
-			var Point = networkMap.Point;
-			if (options && options.reset){
-				this.M(new Point(line.p1.x, line.p1.y));
-			}
-			else{
-				this.L(new Point(line.p1.x, line.p1.y));
-			}
-
-			this.L(new Point(line.p2.x, line.p2.y));
-			return this;
 		}
 	});
 
