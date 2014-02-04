@@ -1,7 +1,7 @@
 {
   "name": "svg.path.js",
   "main": "svg.path.js",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "homepage": "https://github.com/dotnetCarpenter/svg.path.js",
   "authors": [
     "Nils Lagerkvist",
@@ -18,7 +18,7 @@
     "node_modules",
     "bower_components",
     "Gruntfile.js",
-    "bower.json",
+    "*.json",
     "spec",
     "*.html",
     "*.md"
